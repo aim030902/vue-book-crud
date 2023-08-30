@@ -91,6 +91,7 @@
     mounted() {
       this.fetchMovie();
     },
+
     // watch: {
     //   currentPage() {
     //     this.fetchMovie()
